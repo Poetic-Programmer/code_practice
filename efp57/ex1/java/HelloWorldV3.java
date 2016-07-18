@@ -60,7 +60,7 @@ public class HelloWorldV3{
 		 * to be in lower case
 		 */
 		try{
-			FileReader fr = new FileReader("../files/names.txt");
+			FileReader fr = new FileReader("files/names.txt");
 
 			BufferedReader br = new BufferedReader(fr);
 
